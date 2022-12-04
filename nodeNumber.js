@@ -16,14 +16,3 @@ if(fruits > 0 && fruits <= 200){
 }else if(fruits > 301){
     console.log(`The price ${fruits} Expensive`);
 }
-        
-      //   $("#dispaly").html(fruits);
-      //  console.log(fruits);
-
-      //  if (fruits > 0 && fruits <= 200){
-      //   $("#display").html(`The price ${fruits} Cheap`);
-      //  }else if(fruits > 200 && fruits <= 300){
-      //   $("#display").html(`The price ${fruits} Affordable`);
-      //  }else if(fruits > 300){
-      //   $("#display").html(`The price ${fruits} Expensive`);
-      //  }
